@@ -25,3 +25,51 @@ body {
 .getwrite{
     font-size: 8px;
 }
+
+.date{
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 20px;
+    font-size: 13px;
+    color: rgba(117, 117, 117, 1);
+}
+
+.altbaslik{
+    text-overflow: ellipsis;
+    overflow: hidden;
+    letter-spacing: 0;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    line-height: 20px;
+}
+
+.numbers{
+    letter-spacing: 0;
+    font-size: 30px;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    line-height: 36px;
+    color: rgba(230, 230, 230, 1);
+    float:right
+}
+
+.articlemiddle{
+    margin-bottom: 20px;
+}
+
+
+.aside-buttons > li {
+    margin-bottom: 10px;
+}
+
+.rightmenu{
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0.070em;
+    font-weight: 700;
+    color: rgba(41, 41, 41, 1);
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    
+}
